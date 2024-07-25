@@ -6,15 +6,15 @@ Welcome to the Python Projects repository! This repository contains various Pyth
 
 - [Project 1: Guess_the_number_game](#guess_the_number)
 - [Project 2: To-Do-List](#To-Do-list)
-- [Project 3: Project Name](#project-3-project-name)
+- [Project 3: Call_Name](Call_Name)
 
 ## Interactive Structure Diagram
 
 ```mermaid
 graph TD
     A[Python Projects Repository] --> B[Project 1: Game]
-    A --> C[Project 2: Project To-Do-list]
-    A --> D[Project 3: Project Name]
+    A --> C[Project 2: To-Do-list]
+    A --> D[Project 3: Call_Name]
 
     B --> E[Description]
     B --> F[Features]
